@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Composite2D">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAAAACAAAIABAAAAAAAAAAACAAAAAAARCA=</HashCode>
+      <FileName>Composite2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAgAgAIAAAACCAgACIAUAAAAAQQABCA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square2D">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQAAAAAAAEAACAAMIABAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Square2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shape2D">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBYAQAAAAAAAACAAAIoFAACAAACAQAACEAQgGEIAAA=</HashCode>
+      <FileName>Shape2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
